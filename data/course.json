@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3ef0cb77-35a6-c4e9-6f9f-dedf34ad2516",
+      "d87e83b9-8b59-f0ab-95a7-d675cc81c8aa"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Urban Design and Development",
+  "course_description": "This course examines both the structure of cities and the ways they can be changed. It introduces graduate students to theories about how cities are formed, and the practice of urban design and development, using U.S. and international examples. The course is organized into two parts: Part 1 analyzes the forces which act to shape and to change cities; Part 2 surveys key models of physical form and social intervention that have been deployed to resolve competing forces acting on the city. This course includes models of urban analysis, contemporary theories of urban design, and implementation strategies. Lectures in this course are supplemented by discussion periods, student work, and field trips.\n",
+  "department_numbers": [
+    "11",
+    "4"
+  ],
+  "extra_course_numbers": "4.252J",
+  "primary_course_number": "11.301J",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
